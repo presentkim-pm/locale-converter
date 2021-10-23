@@ -1,0 +1,11 @@
+---
+build-by-default: true
+
+branches:
+  - main
+
+projects:
+  locale-converter:
+    model: virion
+    type: library
+...
